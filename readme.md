@@ -1,14 +1,13 @@
 # Custom Category Show OpenCart Module
 
 ## Overview
-The Custom Category Show OpenCart Module is a custom add-on designed for the OpenCart e-commerce platform. It allows administrators to manage individual product categories, offering enhanced control over product organization and display. Using this module, you can add the title, sub-heading, image, description and also the products belonging to the selected category etc. to any position of your site with the desired design. you can demonstrate.
+The Custom Category Show OpenCart Module is a custom add-on designed for the OpenCart e-commerce platform. This module enables administrators to display individual product categories on their storefront with enhanced customization options. You can add the title, sub-heading, image, description, and products belonging to the selected category to any section of your site, allowing for flexible and dynamic category presentations.
 
 ## Features
-- **Custom Category Management:** Easily create, modify, and delete custom categories.
+- **Enhanced Category Display:** Easily display custom categories with titles, sub-headings, images, descriptions, and products.
 - **Product Assignment:** Assign products to custom categories to enhance their visibility and sales.
-- **Admin Interface:** User-friendly interface integrated within the OpenCart admin panel for managing categories and products.
+- **Admin Interface:** User-friendly interface integrated within the OpenCart admin panel for managing and displaying categories.
 - **Compatibility:** Designed to work seamlessly with OpenCart 4.x and higher versions.
-
 
 ## MVC Architecture
 The Custom Category Show OpenCart Module is developed using the MVC (Model-View-Controller) architecture, which organizes the codebase into three interconnected components:
