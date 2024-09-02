@@ -1,0 +1,9 @@
+{% for category in categories %}
+    <p> Category ID:             {{category.category_id}}  </p>
+    <p> Category Name:           {{category.name}}         </p>
+    <p> Category Description:    {{category.description}}  </p>
+    <p> Category Alt:            {{category.alt}}          </p>
+    <p> Category Link:           <a href="{{category.href}}"> link </a> </p>
+    <p> Category Thumb:          <img width="40" height="40px" src="{{category.thumb}}" alt="{{category.alt}}" /> </p>
+    <hr>
+{% endfor %}
